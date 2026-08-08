@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#dcefd8"/>
+<rect y="650" width="1024" height="374" fill="#78a85a"/>
+<circle cx="170" cy="160" r="90" fill="#f5c84b"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #1</text>
+<ellipse cx="512" cy="540" rx="240" ry="170" fill="#d79b42"/>
+<circle cx="390" cy="390" r="85" fill="#d79b42"/><circle cx="635" cy="390" r="85" fill="#d79b42"/>
+<polygon points="345,350 390,275 430,355" fill="#b77a32"/><polygon points="595,355 635,275 680,350" fill="#b77a32"/>
+<circle cx="370" cy="390" r="16" fill="#111"/><circle cx="650" cy="390" r="16" fill="#111"/>
+<path d="M420 500 Q512 570 604 500" fill="none" stroke="#111" stroke-width="12"/>
+<path d="M420 430 L360 455 M420 450 L350 485 M604 430 L664 455 M604 450 L674 485" stroke="#111" stroke-width="8"/>
+<path d="M450 390 L475 410 M550 410 L575 390 M455 520 L430 610 M500 535 L500 640 M570 520 L595 610" stroke="#5c3b1f" stroke-width="18"/>
+<text x="512" y="850" text-anchor="middle" font-family="sans-serif" font-size="42">Golden Tiger • forest</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#eee7d3"/>
+<circle cx="512" cy="510" r="260" fill="#a88a54"/>
+<path d="M350 610 Q512 730 674 610" fill="none" stroke="#fff" stroke-width="30"/>
+<circle cx="425" cy="460" r="35" fill="#fff"/><circle cx="600" cy="460" r="35" fill="#fff"/>
+<circle cx="425" cy="460" r="14" fill="#111"/><circle cx="600" cy="460" r="14" fill="#111"/>
+<path d="M430 360 L512 280 L594 360" fill="#6b4b2a"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #3</text>
+<text x="512" y="870" text-anchor="middle" font-family="sans-serif" font-size="42">Official Collection Evidence Test</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#ddd"/>
+<circle cx="512" cy="510" r="230" fill="#9f9f9f"/>
+<circle cx="430" cy="450" r="42" fill="#fff"/><circle cx="594" cy="450" r="42" fill="#fff"/>
+<path d="M420 590 Q512 530 604 590" fill="none" stroke="#fff" stroke-width="18"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #4</text>
+<text x="512" y="860" text-anchor="middle" font-family="sans-serif" font-size="42">Ambiguous Evidence Test</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#20242a"/>
+<circle cx="512" cy="500" r="250" fill="#4b8bd8"/>
+<circle cx="430" cy="450" r="35" fill="#fff"/><circle cx="594" cy="450" r="35" fill="#fff"/>
+<circle cx="430" cy="450" r="12" fill="#111"/><circle cx="594" cy="450" r="12" fill="#111"/>
+<path d="M420 580 Q512 640 604 580" fill="none" stroke="#fff" stroke-width="18"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38" fill="#fff">TRUTHNFT #5</text>
+<text x="512" y="860" text-anchor="middle" font-family="sans-serif" font-size="38" fill="#fff">Adversarial Metadata Test</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#d9e7f5"/>
+<rect y="700" width="1024" height="324" fill="#8a8f98"/>
+<rect x="170" y="520" width="680" height="220" rx="35" fill="#e44b3a"/>
+<rect x="240" y="460" width="170" height="120" rx="25" fill="#bfe7ff"/>
+<rect x="614" y="460" width="170" height="120" rx="25" fill="#bfe7ff"/>
+<circle cx="240" cy="735" r="70" fill="#222"/><circle cx="784" cy="735" r="70" fill="#222"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #2</text>
+<text x="512" y="860" text-anchor="middle" font-family="sans-serif" font-size="42">RED CAR • deliberate mismatch</text>
+</svg>
