@@ -1,0 +1,15 @@
+{
+  "name": "Ambiguous Artifact #4",
+  "description": "An intentionally ambiguous test artifact. Evidence pages contain conflicting or incomplete facts.",
+  "image": "/images/4.svg",
+  "attributes": [
+    {
+      "trait_type": "test_case",
+      "value": "AMBIGUOUS_EVIDENCE"
+    },
+    {
+      "trait_type": "evidence",
+      "value": "CONFLICTING"
+    }
+  ]
+}
