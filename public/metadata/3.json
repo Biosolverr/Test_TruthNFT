@@ -1,0 +1,19 @@
+{
+  "name": "Truth Collection #3",
+  "description": "Collection authenticity and web evidence test token.",
+  "image": "/images/3.svg",
+  "attributes": [
+    {
+      "trait_type": "test_case",
+      "value": "WEB_EVIDENCE"
+    },
+    {
+      "trait_type": "collection",
+      "value": "TruthNFT"
+    },
+    {
+      "trait_type": "status",
+      "value": "OFFICIAL_TEST_COLLECTION"
+    }
+  ]
+}
