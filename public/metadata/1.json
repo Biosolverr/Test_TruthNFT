@@ -1,0 +1,23 @@
+{
+  "name": "Golden Tiger #1",
+  "description": "A golden tiger standing in a forest. This is the honest baseline NFT.",
+  "image": "/images/1.svg",
+  "attributes": [
+    {
+      "trait_type": "species",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "color",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "environment",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "test_case",
+      "value": "HONEST_BASELINE"
+    }
+  ]
+}
