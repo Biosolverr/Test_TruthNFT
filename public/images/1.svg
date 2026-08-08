@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#dcefd8"/>
+<rect y="650" width="1024" height="374" fill="#78a85a"/>
+<circle cx="170" cy="160" r="90" fill="#f5c84b"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #1</text>
+<ellipse cx="512" cy="540" rx="240" ry="170" fill="#d79b42"/>
+<circle cx="390" cy="390" r="85" fill="#d79b42"/><circle cx="635" cy="390" r="85" fill="#d79b42"/>
+<polygon points="345,350 390,275 430,355" fill="#b77a32"/><polygon points="595,355 635,275 680,350" fill="#b77a32"/>
+<circle cx="370" cy="390" r="16" fill="#111"/><circle cx="650" cy="390" r="16" fill="#111"/>
+<path d="M420 500 Q512 570 604 500" fill="none" stroke="#111" stroke-width="12"/>
+<path d="M420 430 L360 455 M420 450 L350 485 M604 430 L664 455 M604 450 L674 485" stroke="#111" stroke-width="8"/>
+<path d="M450 390 L475 410 M550 410 L575 390 M455 520 L430 610 M500 535 L500 640 M570 520 L595 610" stroke="#5c3b1f" stroke-width="18"/>
+<text x="512" y="850" text-anchor="middle" font-family="sans-serif" font-size="42">Golden Tiger • forest</text>
+</svg>
