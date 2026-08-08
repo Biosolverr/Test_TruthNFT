@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<rect width="1024" height="1024" fill="#ddd"/>
+<circle cx="512" cy="510" r="230" fill="#9f9f9f"/>
+<circle cx="430" cy="450" r="42" fill="#fff"/><circle cx="594" cy="450" r="42" fill="#fff"/>
+<path d="M420 590 Q512 530 604 590" fill="none" stroke="#fff" stroke-width="18"/>
+<text x="512" y="90" text-anchor="middle" font-family="sans-serif" font-size="38">TRUTHNFT #4</text>
+<text x="512" y="860" text-anchor="middle" font-family="sans-serif" font-size="42">Ambiguous Evidence Test</text>
+</svg>
