@@ -1,0 +1,23 @@
+{
+  "name": "Golden Tiger #2",
+  "description": "A golden tiger standing in a forest. Deliberately inconsistent image for negative testing.",
+  "image": "/images/2.svg",
+  "attributes": [
+    {
+      "trait_type": "species",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "color",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "environment",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "test_case",
+      "value": "IMAGE_METADATA_CONTRADICTION"
+    }
+  ]
+}
